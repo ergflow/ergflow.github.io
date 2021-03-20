@@ -1,4 +1,4 @@
-**Privacy Policy**
+######ErgFlow Privacy Policy
 
 Alan Willemsen built the ErgFlow app as an Open Source app. This SERVICE is provided by Alan Willemsen at no cost and is intended for use as is.
 

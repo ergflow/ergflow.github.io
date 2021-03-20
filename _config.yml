@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: ErgFlow
+description: ErgFlow is an open source coaching tool that uses computer vision to analize rowing technique
+logo: ergflow.png
+show_downloads: false
